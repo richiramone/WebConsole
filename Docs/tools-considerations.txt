@@ -1,0 +1,14 @@
+F31 TOOL
+- Rosso ambienti con API a prod / Arancio dev
+- Users?
+
+HOME
+- scegliere ambiente diviso x store
+
+SETTINGS
+- Tanti countries (select)?
+- Forms -> no regexp for type checkbox 
+- Rows countries???
+- Conflicts 
+	- UX improvements, alert che se non li hanno modificato non verrano cambiati
+	- How to show for checkbox or selectcs?
